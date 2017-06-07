@@ -1,6 +1,6 @@
-#ignore all files except .c files, .h files and .py files
+#ignore all files except .c files, .h files, .py files and folders
 
-*
+*.*
 !*.c
 !*.h
 !.py
